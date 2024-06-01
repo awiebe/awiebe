@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My github is not so interesting because it just shows the public commit activty for what is often private repos.  Now and then I will open a PR against a project I'm trying to use, but if you're here for business enquiries I recommend my [portfolio](https://sites.google.com/view/awiebe/home) instead
 <!--
 **awiebe/awiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
